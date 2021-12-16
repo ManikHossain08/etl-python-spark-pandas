@@ -1,0 +1,12 @@
+customer_id,customer_name,invoice_id,invoice_amount,invoice_balance,invoice_date,payment_terms
+1,Microsoft,X-1,1000,0,2021-01-01,Net 30
+2,Apple,X-2,1500,0,2021-01-15,Net 45
+3,Google,X-3,2000,0,2021-03-01,Net 30
+1,Microsoft,X-4,1000,0,2021-04-01,Net 30
+4,Netflix,X-5,3000,0,2021-05-01,Net 30
+4,Netflix,X-6,3000,500,2021-06-01,Net 30
+5,Meta,X-7,500,0,2021-06-15,Net 30
+2,Apple,X-8,5000,2000,2021-07-01,Net 45
+3,Google,X-9,2500,2500,2021-08-01,Net 30
+1,Microsoft,X-10,1000,1000,2021-11-01,Net 60
+5,Meta,X-11,750,750,2021-11-01,Net 45

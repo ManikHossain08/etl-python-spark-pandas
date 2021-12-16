@@ -1,0 +1,6 @@
+customer_id,customer_name,total_invoiced_amount,total_invoice_count,unpaid_amount,unpaid_count,first_invoice_date,first_invoice_amount,last_payment_date,last_payment_amount,customer_segment
+4,Netflix,6000.0,2,500.0,1,2021-05-01,3000,2021-07-31,2500,High
+5,Meta,1250.0,2,750.0,1,2021-06-15,500,2021-07-15,500,High
+3,Google,4500.0,2,2500.0,1,2021-03-01,2000,2021-04-01,1000,High
+2,Apple,6500.0,2,2000.0,1,2021-01-15,1500,2021-08-15,3000,High
+1,Microsoft,3000.0,3,1000.0,1,2021-01-01,1000,2021-06-01,1000,High
